@@ -1,0 +1,7 @@
+Estándares de codificación:
+- Paquetes: com.linkmarket.config, com.linkmarket.dao, com.linkmarket.model, com.linkmarket.app
+- Clases: UpperCamelCase (ProductDAO, DBConnection)
+- Métodos / variables: lowerCamelCase (createProduct, idProducto)
+- Indentación: 4 espacios
+- Longitud de línea: < 120 chars
+- Comentarios: documentar métodos públicos brevemente
